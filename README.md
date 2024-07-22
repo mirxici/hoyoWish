@@ -1,7 +1,7 @@
 # hoyoWish
 power by cpp
 
-made by xicios
+made by mirxici
 
 本程序遵循GPL协议开源，严禁商用
 
